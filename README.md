@@ -13,5 +13,5 @@ This Repo gives the basic understanding of Terraform Language
      - Gives the plan for Terraform configuration files
 ## terraform apply
      - Applies the Terraform configuration
-## trraform destroy
+## terraform destroy
      - Destroies the Infrastructure
